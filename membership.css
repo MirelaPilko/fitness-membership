@@ -144,10 +144,10 @@
 	}
 	
 	input {
-      padding:12px;
+          padding:12px;
 	  margin:5px;
-      border:0;
-      box-shadow: 7px 7px 25px 1px LightGray;
+          border:0;
+          box-shadow: 7px 7px 25px 1px LightGray;
 	  border-radius:18px;
 	  width:75%;
     }
@@ -164,6 +164,10 @@
 	input:hover {
 	  box-shadow: 7px 7px 25px 1px Gray;
 	}
+      
+       .cursor{
+	       cursor:pointer;
+        }
 	
 	footer {
 	  text-align:center;
